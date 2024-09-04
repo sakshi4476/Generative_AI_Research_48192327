@@ -1,4 +1,4 @@
-.
+.All the folder have folder in them and can be looked into it. For future collaborators, create the folder relevant according to the title and add your files
 ├── Additional Materials/
 │   └── Photos/
 │       └── Screenshot 2024-08-29 151516
